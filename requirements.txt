@@ -1,0 +1,5 @@
+# runtime (Python 3.9+)
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.9.4
+markdown==3.9
